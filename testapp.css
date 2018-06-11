@@ -88,11 +88,12 @@ img {
 
  .data { 
     font-size: 45px;
-    height: 162px;
+    height: 100px;
     width: 299px;
-    padding: 10px 10px;
+    padding: 0px 0px;
     font-weight: 700;
     font-family: 'Roboto 700', sans-serif;
+    margin-bottom: 0px;
     
 
  }
@@ -115,6 +116,7 @@ img {
 .morado a {
     color: #fff;
     font-weight: lighter;
+    font-size: 25px;
 }
 
 
