@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto:700');
+    a {
+        text-decoration: none;
+    }
+
+    #servicios {
+        width: 100%;   
+        display: flex;
+        flex-flow: column;
+        background-color: #FAFAF9;
+        align-items: center;
+
+    }
+
+    .regreso {
+        display: flex;
+        flex-flow: row;
+        color: #872BA1;
+        font-family: 'roboto';
+    }
+
+    .misservicios a {
+        color: #872BA1;
+        float: left; 
+        margin: 0px auto;
+    }
+
+    .misservicios2 {
+        margin-left: 150px;
+    }
+
+    .fecha {
+        background-color: #872BA1;
+        width: 100%;
+        color: #FFF;
+        font-weight: lighter;
+        padding: 0px;
+    }
+
+    .date {
+        font-weight: lighter;
+        margin-left: 20px;
+        font-family: 'roboto';
+        padding: 0px;
+    }
+
+    .detalle {
+        box-shadow: 2px 2px 2px gray;
+        background-color: #FAFAF9;
+        
+    }
+
+    .paso1 {
+        color: grey;
+        font-family: 'roboto';
+        font-size: 20px;
+
+    }
+
+    .paso2 {
+        font-family: 'roboto';
+        font-size: 30px;
+    }
+    .paso3 {
+        color: grey;
+        font-size: 20px;
+    
+    }
+    
+    .izquierda {
+        float: left; 
+    }
+    
+    .derecha {
+        margin-left: 170px;
+        margin-bottom: 20px;
+    }
+    
+    .recuadro {
+        background-color: #f1f0ee;
+        border: 1px solid #FAFAF9;
+        margin-left: 155px;
+        height: 60px;
+        margin-bottom: 30px;
+        width: 150px;
+    
+    }
+    
+    .recurrente {
+        color: #872BA1;
+        display: block;
+        margin: 20px 50px 10px 10px;
+        font-family: 'Roboto';
+        font-size: 15px;
+    }
+
+    .ver {
+        background-color: #872BA1;
+        height: 40px; 
+        
+    }
+    
+    .ver a {
+        color: #fff;
+        font-family: 'Roboto';
+        margin-left: 110px;
+    }
+
+    .row {
+        background-color: #fff;
+        margin-bottom: 0px;
+    }
+
+    #servicios2 {
+        width: 100%;   
+        display: flex;
+        flex-flow: column;
+        background-color: #FAFAF9;
+        align-items: center;
+    }
+
+    .regreso1 {
+        display: flex;
+        flex-flow: row;
+        color: #f223c6;
+        font-family: 'roboto';
+    }
+
+    .nuevosservicios a {
+        color: #f223c6;
+        float: left; 
+        margin: 0px auto;
+    }
+
+    .nuevosservicios2 {
+        margin-left: 150px;
+    }
+
+    .fecha2 {
+        background-color: #f223c6;
+        width: 100%;
+        color: #FFF;
+        font-weight: lighter;
+        padding: 0px;
+    }
+
+    .date2 {
+        font-weight: lighter;
+        margin-left: 20px;
+        font-family: 'roboto';
+        padding: 0px;
+    }
+    
+    .recurrente1 {
+        color: #f223c6;
+        display: block;
+        margin: 20px 50px 10px 10px;
+        font-family: 'Roboto';
+        font-size: 15px;
+    }
+
+    .ver1 {
+        background-color: #f223c6;
+        height: 40px; 
+        
+    }
+    
+    .ver1 a {
+        color: #fff;
+        font-family: 'Roboto';
+        margin-left: 110px;
+    }
+
+    .recuadro1 {
+        background-color: #15ABF9;
+        border: 1px solid #FAFAF9;
+        margin-left: 155px;
+        height: 60px;
+        margin-bottom: 30px;
+        width: 150px;
+    }
+
+    .recurrente2 {
+        color: #fff;
+        display: block;
+        margin: 20px 50px 10px 10px;
+        font-family: 'Roboto';
+        font-size: 15px;
+    }
+
+    #mapa {
+        width: 100%;   
+        display: flex;
+        flex-flow: column;
+        background-color: #FFF;
+        align-items: center;
+    }
+
+    .regreso {
+        display: flex;
+        flex-flow: row;
+        color: #872BA1;
+        font-family: 'roboto';
+        
+    }
+
+    .detallesdelservicio a {
+        color: #872BA1;
+        float: left; 
+        margin: 0px auto;
+    }
+
+    .detallesdelservicio2 {
+        margin-left: 110px;
+        
+    }
+
+    .ver3 {
+        background-color: #00BA6F;
+        height: 40px;
+        color: #fff;
+        font-family: 'Roboto'; 
+        align-self: center;
+        
+    }
+
+    #alamo {
+        width: 100%;   
+        display: flex;
+        flex-flow: column;
+        background-color: #FAFAF9;
+        align-items: center;
+    }
+
+    #portales {
+        width: 100%;   
+        display: flex;
+        flex-flow: column;
+        background-color: #FAFAF9;
+        align-items: center;
+    }
+
+    .regreso2 {
+        display: flex;
+        flex-flow: row;
+        color: #f223c6;
+        font-family: 'roboto';
+        background-color: #fff;
+      
+    }
+
+    .detallesdelservicio3 a {
+        color: #f223c6;
+        float: left; 
+        margin: 0px auto;
+    }
+
+    .detallesdelservicio4 {
+        margin-left: 110px;
+        
+    }
+
+   
+
+
+    
+    
+  
+   
+
+    
+        
+        
