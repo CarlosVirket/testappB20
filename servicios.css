@@ -134,7 +134,7 @@
     }
 
     .nuevosservicios2 {
-        margin-left: 150px;
+        margin-left: 140px;
     }
 
     .fecha2 {
@@ -241,7 +241,7 @@
         align-items: center;
     }
 
-    .regreso2 {
+    .regreso {
         display: flex;
         flex-flow: row;
         color: #f223c6;

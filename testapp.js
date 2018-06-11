@@ -45,7 +45,12 @@ function servicios() {
   var content = "";
 
   for(var i = 0; i < confirmados.length; i++){
-    content += '<div class="servicio">' + confirmados[i].customer + '</div>'
+    content += '<div class="servicio">' + confirmados[i].addres_neighborhood + '</div>'
+    content += '<div class="servicio">' + confirmados[i].date + '</div>'
+    content += '<div class="servicio">' + confirmados[i].hour + '</div>'
+    content += '<div class="servicio">' + confirmados[i].lenght + '</div>'
+    content += '<div class="servicio">' + confirmados[i].service_type + '</div>'
+
   }
 
   document.getElementById("confirmados").innerHTML = content;
